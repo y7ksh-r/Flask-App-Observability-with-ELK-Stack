@@ -71,7 +71,7 @@ Displays the top messages from the logs, which are customized through a Grok fil
 
 # Video Walkthrough of the Project
 
-[Click here!](https://youtu.be/sy9Q2ykfCq0)
+[![YouTube Tutorial](https://img.shields.io/badge/Watch%20Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/sy9Q2ykfCq0)
 
 # Have Doubts?
 
